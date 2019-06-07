@@ -12,7 +12,7 @@ import {
 export const signIn = (userId) => {
     return {
         type: SIGN_IN,
-        playload: userId
+        payload: userId
     };
 };
 
