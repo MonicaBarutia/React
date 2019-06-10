@@ -11,18 +11,6 @@
       "id": 2
     },
     {
-      "title": "Stream with id.",
-      "description": "This one i got right!! An userId was attached to the stream.",
-      "userId": "108840130949812509760",
-      "id": 8
-    },
-    {
-      "title": "Custom Browser History",
-      "description": "Create your own browser history.",
-      "userId": "108840130949812509760",
-      "id": 9
-    },
-    {
       "title": "Component reuse Stream.",
       "description": "Watch me refactor some components.",
       "id": 10
