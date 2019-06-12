@@ -17,7 +17,7 @@ const App = () => {
     }
 
     return (
-        <div className="border red">
+        <div className="border blue">
             {content}
         </div>
     )
